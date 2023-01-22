@@ -1,0 +1,11 @@
+Model Information:
+* title:	A statue of Alexander Pushkin
+* source:	https://sketchfab.com/3d-models/a-statue-of-alexander-pushkin-60da5f55e03741599ec8c234e03b4083
+* author:	saddlersoft (https://sketchfab.com/saddlersoft)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "A statue of Alexander Pushkin" (https://sketchfab.com/3d-models/a-statue-of-alexander-pushkin-60da5f55e03741599ec8c234e03b4083) by saddlersoft (https://sketchfab.com/saddlersoft) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
