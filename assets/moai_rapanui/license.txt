@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Traveling Moai, Ahu Tongariki -Rapa Nui
+* source:	https://sketchfab.com/3d-models/the-traveling-moai-ahu-tongariki-rapa-nui-2ab65014a0a34a6e83f15bf3a3b78770
+* author:	Guillermo (https://sketchfab.com/guillermosainz)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Traveling Moai, Ahu Tongariki -Rapa Nui" (https://sketchfab.com/3d-models/the-traveling-moai-ahu-tongariki-rapa-nui-2ab65014a0a34a6e83f15bf3a3b78770) by Guillermo (https://sketchfab.com/guillermosainz) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
