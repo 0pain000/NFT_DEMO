@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bee
+* source:	https://sketchfab.com/3d-models/bee-fe0377d46e6a43ca9ad1c9b4f910960f
+* author:	Netherbrine 5902 (https://sketchfab.com/abhibot07)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bee" (https://sketchfab.com/3d-models/bee-fe0377d46e6a43ca9ad1c9b4f910960f) by Netherbrine 5902 (https://sketchfab.com/abhibot07) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
